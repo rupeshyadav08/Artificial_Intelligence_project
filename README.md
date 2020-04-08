@@ -6,4 +6,6 @@ This uses packages like
 
 3)Pyttsx3 :- giving output in audio form
 
+How to run it:
 
+Run the program and ask any relation from given program it will answer your quries.
